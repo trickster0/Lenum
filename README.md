@@ -3,7 +3,7 @@ Linux Enumeration / Privilege escalation tool
 
 
 Compile with rust.
-
+Compiled binaries at https://github.com/trickster0/Lenum/releases
 <IMG SRC="https://raw.githubusercontent.com/trickster0/Lenum/master/Lenum.png"/>
 
 <strong>USAGE:</strong>
