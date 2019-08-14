@@ -3,6 +3,9 @@ Linux Enumeration / Privilege escalation tool
 
 
 Compile with rust.
+
+<IMG SRC="https://raw.githubusercontent.com/trickster0/Lenum/master/Lenum.png"/>
+
 <strong>USAGE:</strong>
 <p>
 <pre><code>./Lenum 
