@@ -8,6 +8,8 @@ Compile with rust.
 <pre><code>./Lenum IP
 </code></pre>
 
+Some things will be added later for AIX support. Cross compile for x86 or x64.
+
 Author: Thanasis Tserpelis aka trickster0
 
 || Copyright 2019 (License) ||
