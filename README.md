@@ -5,7 +5,7 @@ Linux Enumeration / Privilege escalation tool
 Compile with rust.
 <strong>USAGE:</strong>
 <p>
-<pre><code>./Lenum IP
+<pre><code>./Lenum 
 </code></pre>
 
 Some things will be added later for AIX support. Cross compile for x86 or x64.
